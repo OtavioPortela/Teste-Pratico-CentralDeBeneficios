@@ -1,0 +1,16 @@
+{
+  "tipo": "incremental",
+  "faixa_inicio": 49359700,
+  "faixa_fim": 49359699,
+  "consultados": 0,
+  "inseridos": 0,
+  "atualizados": 0,
+  "ignorados": 0,
+  "falhas": 0,
+  "watermark_inicial": 49359699,
+  "watermark_final": 49359699,
+  "id_falha": null,
+  "interrompida": false,
+  "duracao_s": 0.35,
+  "erro": null
+}

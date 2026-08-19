@@ -1,0 +1,193 @@
+2026-08-18 20:49:48,052 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-18 20:49:48,052 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-18 20:49:53,826 INFO    src.desafio: Acessando https://rpachallenge.com/
+2026-08-18 20:49:56,333 INFO    src.download: Iniciando download da planilha
+2026-08-18 20:49:57,502 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:50:17,183 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-18 20:50:17,183 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-18 20:50:18,247 INFO    src.desafio: Acessando https://rpachallenge.com/
+2026-08-18 20:50:22,221 INFO    src.download: Iniciando download da planilha
+2026-08-18 20:50:23,833 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-18 20:50:23,851 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-18 20:50:23,874 INFO    src.formulario: Desafio iniciado
+2026-08-18 20:50:23,880 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-18 20:50:24,129 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-18 20:50:24,347 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-18 20:50:24,529 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-18 20:50:24,694 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-18 20:50:24,862 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-18 20:50:25,033 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-18 20:50:25,199 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-18 20:50:25,384 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-18 20:50:25,564 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-18 20:50:46,260 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:50:46,260 ERROR   rpa: Execução interrompida: formulário não foi atualizado após o submit
+2026-08-18 20:51:08,052 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-18 20:51:08,052 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-18 20:51:09,071 INFO    src.desafio: Acessando https://rpachallenge.com/
+2026-08-18 20:51:29,164 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:51:59,933 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-18 20:51:59,934 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-18 20:52:01,083 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-18 20:52:21,168 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:52:21,169 ERROR   rpa: Execução interrompida: não foi possível abrir https://rpachallenge.com/: TimeoutException
+2026-08-18 20:53:01,903 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-18 20:53:01,903 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-18 20:53:02,921 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-18 20:53:04,188 INFO    src.download: Iniciando download da planilha
+2026-08-18 20:53:06,100 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-18 20:53:06,119 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-18 20:53:06,147 INFO    src.formulario: Desafio iniciado
+2026-08-18 20:53:06,156 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-18 20:53:06,428 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-18 20:53:06,609 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-18 20:53:06,813 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-18 20:53:07,009 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-18 20:53:07,206 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-18 20:53:07,396 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-18 20:53:07,581 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-18 20:53:07,772 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-18 20:53:07,960 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-18 20:53:08,158 INFO    src.desafio: Resultado do site: Your success rate is 100% ( 70 out of 70 fields) in 2011 milliseconds
+2026-08-18 20:53:08,753 INFO    src.desafio: Screenshot salvo em resultado.png
+2026-08-18 20:53:08,830 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:53:08,831 INFO    src.resultado: Resultado salvo em resultado.json
+2026-08-18 20:53:08,831 INFO    src.desafio: Concluído: 10 registros, acurácia 100% (70 de 70 campos) em 2011 ms
+2026-08-18 20:53:34,069 INFO    src.desafio: Iniciando execução (headless=False)
+2026-08-18 20:53:34,070 INFO    src.navegador: Abrindo Chrome (headless=False)
+2026-08-18 20:53:34,751 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-18 20:53:36,304 INFO    src.download: Iniciando download da planilha
+2026-08-18 20:54:06,648 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:54:06,653 ERROR   rpa: Execução interrompida: download não concluído em 30s; esperado /Users/otavioluciano/Projetos/sites/CentralDosBeneficios/rpa/data/challenge.xlsx
+2026-08-18 20:54:37,666 INFO    src.desafio: Iniciando execução (headless=False)
+2026-08-18 20:54:37,667 INFO    src.navegador: Abrindo Chrome (headless=False)
+2026-08-18 20:54:38,460 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-18 20:54:39,257 INFO    src.download: Iniciando download da planilha
+2026-08-18 20:54:39,936 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-18 20:54:39,952 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-18 20:54:39,977 INFO    src.formulario: Desafio iniciado
+2026-08-18 20:54:39,983 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-18 20:54:40,248 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-18 20:54:40,430 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-18 20:54:40,619 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-18 20:54:40,810 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-18 20:54:40,990 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-18 20:54:41,170 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-18 20:54:41,342 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-18 20:54:41,524 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-18 20:54:41,713 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-18 20:54:41,893 INFO    src.desafio: Resultado do site: Your success rate is 100% ( 70 out of 70 fields) in 1911 milliseconds
+2026-08-18 20:54:42,040 INFO    src.desafio: Screenshot salvo em resultado.png
+2026-08-18 20:54:42,117 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:54:42,118 INFO    src.resultado: Resultado salvo em resultado.json
+2026-08-18 20:54:42,118 INFO    src.desafio: Concluído: 10 registros, acurácia 100% (70 de 70 campos) em 1911 ms
+2026-08-18 20:54:50,620 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-18 20:54:50,620 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-18 20:54:51,566 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-18 20:54:52,638 INFO    src.download: Iniciando download da planilha
+2026-08-18 20:54:53,819 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-18 20:54:53,836 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-18 20:54:53,859 INFO    src.formulario: Desafio iniciado
+2026-08-18 20:54:53,865 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-18 20:54:54,618 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-18 20:54:54,810 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-18 20:54:54,979 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-18 20:54:55,149 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-18 20:54:55,314 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-18 20:54:55,482 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-18 20:54:55,647 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-18 20:54:55,823 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-18 20:54:55,992 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-18 20:54:56,162 INFO    src.desafio: Resultado do site: Your success rate is 100% ( 70 out of 70 fields) in 2301 milliseconds
+2026-08-18 20:54:56,733 INFO    src.desafio: Screenshot salvo em resultado.png
+2026-08-18 20:54:56,811 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:54:56,812 INFO    src.resultado: Resultado salvo em resultado.json
+2026-08-18 20:54:56,812 INFO    src.desafio: Concluído: 10 registros, acurácia 100% (70 de 70 campos) em 2301 ms
+2026-08-18 20:57:21,637 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-18 20:57:21,638 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-18 20:57:22,721 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-18 20:57:23,859 INFO    src.download: Iniciando download da planilha
+2026-08-18 20:57:24,839 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-18 20:57:24,870 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-18 20:57:25,420 INFO    src.formulario: Desafio iniciado
+2026-08-18 20:57:25,436 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-18 20:57:25,685 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-18 20:57:25,858 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-18 20:57:26,030 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-18 20:57:26,198 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-18 20:57:26,381 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-18 20:57:26,546 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-18 20:57:26,707 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-18 20:57:26,877 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-18 20:57:27,044 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-18 20:57:27,209 INFO    src.desafio: Resultado do site: Your success rate is 100% ( 70 out of 70 fields) in 2310 milliseconds
+2026-08-18 20:57:27,780 INFO    src.desafio: Screenshot salvo em resultado.png
+2026-08-18 20:57:27,854 INFO    src.navegador: Chrome encerrado
+2026-08-18 20:57:27,854 INFO    src.resultado: Resultado salvo em resultado.json
+2026-08-18 20:57:27,854 INFO    src.desafio: Concluído: 10 registros, acurácia 100% (70 de 70 campos) em 2310 ms
+2026-08-18 21:01:50,944 INFO    src.desafio: Iniciando execução (headless=False)
+2026-08-18 21:01:50,944 INFO    src.navegador: Abrindo Chrome (headless=False)
+2026-08-18 21:01:51,630 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-18 21:01:53,345 INFO    src.download: Iniciando download da planilha
+2026-08-18 21:01:54,029 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-18 21:01:54,044 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-18 21:01:54,069 INFO    src.formulario: Desafio iniciado
+2026-08-18 21:01:54,076 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-18 21:01:54,329 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-18 21:01:54,507 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-18 21:01:54,689 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-18 21:01:54,861 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-18 21:01:55,033 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-18 21:01:55,205 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-18 21:01:55,378 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-18 21:01:55,553 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-18 21:01:55,735 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-18 21:01:55,906 INFO    src.desafio: Resultado do site: Your success rate is 100% ( 70 out of 70 fields) in 1835 milliseconds
+2026-08-18 21:01:56,053 INFO    src.desafio: Screenshot salvo em resultado.png
+2026-08-18 21:01:56,125 INFO    src.navegador: Chrome encerrado
+2026-08-18 21:01:56,125 INFO    src.resultado: Resultado salvo em resultado.json
+2026-08-18 21:01:56,125 INFO    src.desafio: Concluído: 10 registros, acurácia 100% (70 de 70 campos) em 1835 ms
+2026-08-19 07:03:44,171 INFO    src.desafio: Iniciando execução (headless=True)
+2026-08-19 07:03:44,171 INFO    src.navegador: Abrindo Chrome (headless=True)
+2026-08-19 07:03:46,708 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-19 07:03:48,589 INFO    src.download: Iniciando download da planilha
+2026-08-19 07:03:49,751 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-19 07:03:49,766 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-19 07:03:50,301 INFO    src.formulario: Desafio iniciado
+2026-08-19 07:03:50,307 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-19 07:03:50,544 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-19 07:03:50,712 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-19 07:03:50,881 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-19 07:03:51,053 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-19 07:03:51,219 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-19 07:03:51,383 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-19 07:03:51,552 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-19 07:03:51,725 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-19 07:03:51,908 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-19 07:03:52,079 INFO    src.desafio: Resultado do site: Your success rate is 100% ( 70 out of 70 fields) in 1778 milliseconds
+2026-08-19 07:03:52,653 INFO    src.desafio: Screenshot salvo em resultado.png
+2026-08-19 07:03:52,723 INFO    src.navegador: Chrome encerrado
+2026-08-19 07:03:52,724 INFO    src.resultado: Resultado salvo em resultado.json
+2026-08-19 07:03:52,724 INFO    src.desafio: Concluído: 10 registros, acurácia 100% (70 de 70 campos) em 1778 ms
+2026-08-19 07:04:00,069 INFO    src.desafio: Iniciando execução (headless=False)
+2026-08-19 07:04:00,070 INFO    src.navegador: Abrindo Chrome (headless=False)
+2026-08-19 07:04:00,560 INFO    src.navegador: Acessando https://rpachallenge.com/
+2026-08-19 07:04:01,646 INFO    src.download: Iniciando download da planilha
+2026-08-19 07:04:02,305 INFO    src.download: Download concluído: challenge.xlsx (34124 bytes)
+2026-08-19 07:04:02,321 INFO    src.planilha: Planilha lida: 10 registros em challenge.xlsx
+2026-08-19 07:04:02,346 INFO    src.formulario: Desafio iniciado
+2026-08-19 07:04:02,353 INFO    src.desafio: Preenchendo registro 1/10 (ROUND 1)
+2026-08-19 07:04:02,607 INFO    src.desafio: Preenchendo registro 2/10 (ROUND 2)
+2026-08-19 07:04:02,794 INFO    src.desafio: Preenchendo registro 3/10 (ROUND 3)
+2026-08-19 07:04:02,977 INFO    src.desafio: Preenchendo registro 4/10 (ROUND 4)
+2026-08-19 07:04:03,155 INFO    src.desafio: Preenchendo registro 5/10 (ROUND 5)
+2026-08-19 07:04:03,325 INFO    src.desafio: Preenchendo registro 6/10 (ROUND 6)
+2026-08-19 07:04:03,503 INFO    src.desafio: Preenchendo registro 7/10 (ROUND 7)
+2026-08-19 07:04:03,671 INFO    src.desafio: Preenchendo registro 8/10 (ROUND 8)
+2026-08-19 07:04:03,852 INFO    src.desafio: Preenchendo registro 9/10 (ROUND 9)
+2026-08-19 07:04:04,051 INFO    src.desafio: Preenchendo registro 10/10 (ROUND 10)
+2026-08-19 07:04:04,223 INFO    src.desafio: Resultado do site: Your success rate is 100% ( 70 out of 70 fields) in 1876 milliseconds
+2026-08-19 07:04:04,365 INFO    src.desafio: Screenshot salvo em resultado.png
+2026-08-19 07:04:04,448 INFO    src.navegador: Chrome encerrado
+2026-08-19 07:04:04,448 INFO    src.resultado: Resultado salvo em resultado.json
+2026-08-19 07:04:04,448 INFO    src.desafio: Concluído: 10 registros, acurácia 100% (70 de 70 campos) em 1876 ms

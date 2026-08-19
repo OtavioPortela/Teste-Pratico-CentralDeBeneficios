@@ -1,0 +1,22 @@
+2026-08-19 07:45:55,275 INFO    src.carga: Iniciando carga em 2026-08-19T10:45:55.275535+00:00
+2026-08-19 07:45:55,277 INFO    src.banco: Banco /Users/otavioluciano/Projetos/sites/CentralDosBeneficios/hacker_news/data/hacker_news.db (criado)
+2026-08-19 07:45:55,277 INFO    src.carga: Watermark inicial: ausente (primeira execução)
+2026-08-19 07:45:55,630 INFO    src.carga: maxitem atual: 49359696
+2026-08-19 07:45:55,630 INFO    src.carga: Carga inicial: faixa 49359597 → 49359696 (100 IDs)
+2026-08-19 07:45:59,797 INFO    src.carga: Progresso: 25 de 100 IDs processados (watermark 49359621)
+2026-08-19 07:46:04,268 INFO    src.carga: Progresso: 50 de 100 IDs processados (watermark 49359646)
+2026-08-19 07:46:08,454 INFO    src.carga: Progresso: 75 de 100 IDs processados (watermark 49359671)
+2026-08-19 07:46:12,551 INFO    src.carga: Progresso: 100 de 100 IDs processados (watermark 49359696)
+2026-08-19 07:46:12,553 INFO    src.resultado: Resumo salvo em resumo.json
+2026-08-19 07:46:18,572 INFO    src.carga: Iniciando carga em 2026-08-19T10:46:18.572163+00:00
+2026-08-19 07:46:18,572 INFO    src.banco: Banco /Users/otavioluciano/Projetos/sites/CentralDosBeneficios/hacker_news/data/hacker_news.db (existente)
+2026-08-19 07:46:18,572 INFO    src.carga: Watermark inicial: 49359696
+2026-08-19 07:46:18,904 INFO    src.carga: maxitem atual: 49359699
+2026-08-19 07:46:18,904 INFO    src.carga: Carga incremental: faixa 49359697 → 49359699 (3 IDs)
+2026-08-19 07:46:19,380 INFO    src.resultado: Resumo salvo em resumo.json
+2026-08-19 07:46:29,448 INFO    src.carga: Iniciando carga em 2026-08-19T10:46:29.447734+00:00
+2026-08-19 07:46:29,451 INFO    src.banco: Banco /Users/otavioluciano/Projetos/sites/CentralDosBeneficios/hacker_news/data/hacker_news.db (existente)
+2026-08-19 07:46:29,451 INFO    src.carga: Watermark inicial: 49359699
+2026-08-19 07:46:29,798 INFO    src.carga: maxitem atual: 49359699
+2026-08-19 07:46:29,798 INFO    src.carga: Nenhum item novo: watermark 49359699 alcança o maxitem
+2026-08-19 07:46:29,798 INFO    src.resultado: Resumo salvo em resumo.json

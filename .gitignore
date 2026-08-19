@@ -1,0 +1,104 @@
+# ==========================================================
+# .gitignore único da raiz — vale para os dois desafios
+# (rpa/ e hacker_news/).
+# Evidências exigidas pelo teste (artifacts/) NÃO são ignoradas:
+# ver bloco "Evidências do teste" no final do arquivo.
+# ==========================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Tests and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Lint, type checking and analysis caches
+.mypy_cache/
+.ruff_cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.*
+
+# Credentials, cookies and browser sessions
+cookies.json
+cookies.txt
+storage_state.json
+.auth/
+
+# Logs
+*.log
+logs/
+
+# Local databases (recriadas a cada execução da carga incremental)
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Browser automation (Selenium / Playwright)
+playwright-report/
+test-results/
+trace.zip
+.selenium/
+user-data-dir/
+
+# Downloads temporários gerados pelo RPA
+downloads/
+# Planilha baixada pelo desafio: entrada recriada a cada execução, não é evidência
+rpa/data/
+
+# Reconhecimento com Playwright (downloads e snapshots da fase de análise)
+.playwright-mcp/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Local configuration (não versionada)
+*.local
+config.local.*
+
+# ==========================================================
+# Evidências do teste — sempre versionadas
+# O PDF exige evidências de execução do RPA e da carga
+# incremental em artifacts/ (screenshots, JSON, métricas).
+# Estas negações vêm por último para vencer as regras acima
+# (ex.: *.log, *.db, *.tmp dentro de artifacts/).
+# ==========================================================
+!artifacts/
+!**/artifacts/**

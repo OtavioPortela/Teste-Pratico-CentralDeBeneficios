@@ -1,0 +1,18 @@
+{
+  "url": "https://rpachallenge.com/",
+  "headless": false,
+  "inicio": "2026-08-19T10:04:00.069848+00:00",
+  "fim": "2026-08-19T10:04:04.448410+00:00",
+  "duracao_execucao_s": 4.38,
+  "planilha": "challenge.xlsx",
+  "registros_lidos": 10,
+  "registros_submetidos": 10,
+  "screenshot": "resultado.png",
+  "resultado": {
+    "mensagem": "Your success rate is 100% ( 70 out of 70 fields) in 1876 milliseconds",
+    "acuracia_percentual": 100,
+    "campos_preenchidos": 70,
+    "campos_totais": 70,
+    "duracao_desafio_ms": 1876
+  }
+}
